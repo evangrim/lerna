@@ -1,6 +1,4 @@
-> **Important note: this project [recently changed stewardship to Nrwl](https://github.com/lerna/lerna/issues/3121)!**
->
-> **Your favorite tool is alive and well: https://blog.nrwl.io/lerna-5-1-new-website-new-guides-new-lerna-example-repo-distributed-caching-support-and-speed-64d66410bec7**
+> **Important note: this project [recently changed stewardship to Nrwl](https://github.com/lerna/lerna/issues/3121) and continues to be actively maintained: https://blog.nrwl.io/lerna-5-1-new-website-new-guides-new-lerna-example-repo-distributed-caching-support-and-speed-64d66410bec7**
 
 <br />
 
